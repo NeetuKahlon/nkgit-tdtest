@@ -28,7 +28,7 @@ _This will also be italic_
     
     
 # images
-![github octocat logo](https://octodex.github.com/octdrey-catburn)
+![github octocat logo](https://octodex.github.com/images/octdrey-catburn.jpg)
 
 # links
 [Training Dragon link](http://trainingdragon.co.uk)
