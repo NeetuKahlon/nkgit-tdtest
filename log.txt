@@ -1,5 +1,4 @@
 testing .gitignore
 
+working on feature log text document
 
-
-working on NEW BRANCH SOMEWHERE ELSE WITHIN SAME DOCUMENT feature log text document
