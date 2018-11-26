@@ -1,1 +1,3 @@
 testing .gitignore
+
+working on feature log text document
